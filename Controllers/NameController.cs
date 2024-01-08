@@ -6,19 +6,13 @@ namespace Routes.Controller;
 public class NameController : ControllerBase
 {
     public string input = "";
-    //input = Console.Readline();
-    // public List<string> nameList = new();
-
+    
     public NameController()
     {
-        // nameList.Add()input;
+        
     }
 
-    // [HttpGet]
-    // public List<string>GetNames()
-    // {
-    //     return nameList;
-    // }
+    
 
     [HttpPost]
     [Route("AddName/{inputName}")]
