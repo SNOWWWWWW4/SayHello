@@ -2,9 +2,9 @@ Liam Garcia
 
 1/8/2024
 
-Saying Hello 
+Saying Hello by creating an ApI endpoint
 
-Created a 
+Created an API endpoint that receives user input and outputs a greeting
 
 Peer Reviewed by: Jerrod Packard
 
