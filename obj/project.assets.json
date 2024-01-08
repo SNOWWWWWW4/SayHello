@@ -469,24 +469,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lesco\\.nuget\\packages\\": {}
+    "/Users/Jerrod/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel2\\SayHello-EndPoint\\SayHello\\SayHello.csproj",
+      "projectUniqueName": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/SayHello/SayHello.csproj",
       "projectName": "SayHello",
-      "projectPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel2\\SayHello-EndPoint\\SayHello\\SayHello.csproj",
-      "packagesPath": "C:\\Users\\lesco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel2\\SayHello-EndPoint\\SayHello\\obj\\",
+      "projectPath": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/SayHello/SayHello.csproj",
+      "packagesPath": "/Users/Jerrod/.nuget/packages/",
+      "outputPath": "/Users/Jerrod/Documents/CodeStackAcademy/GitRepository/SayHello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Jerrod/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -533,7 +534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
