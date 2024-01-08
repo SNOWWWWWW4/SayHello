@@ -5,20 +5,12 @@ namespace Routes.Controller;
 [Route("[controller]")]
 public class NameController : ControllerBase
 {
-    public string input = "";
     
-    public NameController()
-    {
-        
-    }
-
-    
-
     [HttpPost]
     [Route("AddName/{inputName}")]
     public string AddName(string inputName)
     {
-        input = inputName;
-        return $"Hello, {input}!";
+        return $"Hello, {inputName}!";
     }
+    
 }
